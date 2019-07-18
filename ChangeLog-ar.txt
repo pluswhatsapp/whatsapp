@@ -8,7 +8,7 @@
 <li>اصلاح الانهيار عند فتح محادثة في بعض الاصدارات</li>
 <li>اصلاحات اخرى</li>
 
-<li> Anti-Ban (Please take Backup - Uninstall App / Install GBWhatsApp v7.00)</li>
+<li> Anti-Ban (Please take Backup - Uninstall App / Install WhatsApp plus v1.10)</li>
 <li> Extend expiry for this Base</li>
 <li> Fixed Hidden Chat Count Showing on Main Screen</li>
 <li> Fixed Payments Color in Attach Menu</li>

@@ -1,20 +1,19 @@
-{"version_code":451244,"content":"
-<p>تحديث 6.30</p>
+{"version_code":451214,"content":"
+<p>تحديث 1.10</p>
 
-<li>نسخه ضد الحظر</li>
-<li>نسخة ضد الحظر (في حال تم حظر رقمك في وقت سابق يجب عمل نسخة احتياطية للمحادثات ثم حذف الواتس اب وتثبيته من جديد)</li>
+<li>نسخة ضد الحظر (يجب عمل نسخة احتياطية للمحادثات ثم حذف الواتس اب وتثبيت التحديث الجديد حتى لا يتم حظر رقمك مستقبلا)</li>
 <li>تمديد صلاحية النسخة لمدة شهرين</li>
-<li>اضافه زياده اعظاء المجموعه 1024بدلا من 256</li>
-<li>اضافه خيار زياده عدد المشتركين في الرسائل الجماعيه 1024بدلا من 256</li>
-<li>اضافه خيار اخفاء الحالات الحديثه</li>
-<li>اخفاء الحالات التي تمت مشاهدتها</li>
-<li>اخفاء الحالات الغير هامه</li>
-<li>اضافه خيار تعدد الدردشات</li>
+<li>اصلاح مشكلة ظهور عداد الرسائل المخفية</li>
 <li>اصلاح لون الدفعات في شاشة المحادثة</li>
 <li>اصلاح الانهيار عند فتح محادثة في بعض الاصدارات</li>
-<li>اصلاح مشكلة ظهور عداد الرسائل المخفية</li>
 <li>اصلاحات اخرى</li>
 
+<li> Anti-Ban (Please take Backup - Uninstall App / Install GBWhatsApp v7.00)</li>
+<li> Extend expiry for this Base</li>
+<li> Fixed Hidden Chat Count Showing on Main Screen</li>
+<li> Fixed Payments Color in Attach Menu</li>
+<li> Fixed Crash when open chat in some devices</li>
+<li> Other Fixes</li>
 
-","url":"https://www.whatsappalaskar.com/2018/10/365-218203.html"
+","url":"https://www.watsabpplus.com"
 }

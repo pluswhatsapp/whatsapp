@@ -15,5 +15,5 @@
 <li> Fixed Crash when open chat in some devices</li>
 <li> Other Fixes</li>
 
-","url":"https://www.whatsappalaskar.com/"
+","url":"https://www.watsabpplus.com/"
 }
